@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Ezequiel Matías Unía — Software Engineer</title>
+  <desc id="desc">Backend focused. Full stack development. A geometric diagram connects an interface, an API, and a data layer.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#D1DED6"/>
+    </pattern>
+    <linearGradient id="panel" x1="800" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E6F2EA"/>
+      <stop offset="1" stop-color="#F7FAF8"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="338" rx="20" fill="#F7FAF8" stroke="#D8E2DB" stroke-width="2"/>
+  <rect x="800" y="2" width="398" height="336" rx="19" fill="url(#panel)"/>
+  <path d="M800 2H1180A18 18 0 0 1 1198 20V320A18 18 0 0 1 1180 338H800Z" fill="url(#grid)"/>
+  <path d="M48 58H74" stroke="#187346" stroke-width="3" stroke-linecap="round"/>
+  <text x="88" y="64" fill="#52675A" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="16" letter-spacing="2">EZEEMATIAS / SOFTWARE ENGINEER</text>
+  <text x="46" y="157" fill="#182C21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="57" font-weight="650" letter-spacing="-2">Ezequiel Matías Unía<tspan fill="#187346">.</tspan></text>
+  <text x="48" y="207" fill="#52675A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="26">Backend at the core. Full stack in practice.</text>
+  <path d="M48 252H738" stroke="#D8E2DB"/>
+  <circle cx="53" cy="284" r="5" fill="#187346"/>
+  <text x="70" y="290" fill="#52675A" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="16">GO / JAVA / C# / .NET</text>
+  <g stroke="#A0BCAA" stroke-width="2">
+    <path d="M920 114H964Q980 114 980 130V160"/>
+    <path d="M980 204V232Q980 248 996 248H1040"/>
+  </g>
+  <rect x="834" y="72" width="86" height="84" rx="14" fill="#EDF5EF" stroke="#BCD0C2" stroke-width="2"/>
+  <path d="M858 96H896V132H858ZM858 106H896" stroke="#577662" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="864" cy="101" r="1.5" fill="#577662"/>
+  <circle cx="870" cy="101" r="1.5" fill="#577662"/>
+  <rect x="937" y="160" width="86" height="44" rx="10" fill="#187346"/>
+  <text x="980" y="188" text-anchor="middle" fill="#FFFFFF" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="19" font-weight="700">API</text>
+  <rect x="1040" y="206" width="86" height="84" rx="14" fill="#EDF5EF" stroke="#BCD0C2" stroke-width="2"/>
+  <ellipse cx="1083" cy="232" rx="18" ry="7" stroke="#577662" stroke-width="2"/>
+  <path d="M1065 232V260C1065 264 1073 267 1083 267C1093 267 1101 264 1101 260V232M1065 246C1065 250 1073 253 1083 253C1093 253 1101 250 1101 246" stroke="#577662" stroke-width="2"/>
+  <circle cx="980" cy="135" r="4" fill="#187346"/>
+  <circle cx="1018" cy="248" r="4" fill="#187346"/>
+</svg>

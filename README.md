@@ -1,15 +1,20 @@
-# Ezequiel Matías Unía
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img src="./assets/header-light.svg" alt="Ezequiel Matías Unía — Software Engineer, focused on backend." width="100%">
+</picture>
 
-**Software Engineer · Backend focused**
+<br>
 
-Building end-to-end applications with a backend focus and AI integrated throughout my development workflow.
+I build applications end to end, with **backend at the core**.
+AI is integrated throughout my everyday development workflow.
 
-### Stack
+### The stack
 
-**Backend** — Go · Java · C# · .NET
+| Focus | Technologies |
+| :--- | :--- |
+| **Backend** | Go · Java · C# · .NET |
+| **Frontend** | React · Next.js |
 
-**Frontend** — React · Next.js
+<br>
 
-### Connect
-
-[LinkedIn](https://www.linkedin.com/in/ezequielunia/)
+[LinkedIn ↗](https://www.linkedin.com/in/ezequielunia/) &nbsp;·&nbsp; [Explore my repositories ↗](https://github.com/ezeematias?tab=repositories)
