@@ -27,7 +27,3 @@ I focus on defining the problem, designing the solution, and guiding AI tools to
 
 I'm passionate about **game development** and bringing my own video games to life.
 Away from the keyboard, I play **football and tennis**.
-
-<br>
-
-[LinkedIn ↗](https://www.linkedin.com/in/ezequielunia/) &nbsp;·&nbsp; [Explore my repositories ↗](https://github.com/ezeematias?tab=repositories)
